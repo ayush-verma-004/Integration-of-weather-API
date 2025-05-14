@@ -1,3 +1,0 @@
-
-Api key for weather
-63f13bca767dddb4d1a2d79a684f4ec5

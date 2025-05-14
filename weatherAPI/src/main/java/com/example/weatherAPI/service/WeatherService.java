@@ -15,7 +15,7 @@ public class WeatherService {
     @Autowired
     private WebClient.Builder webClientBuilder;
 
-    private final String API_KEY = "63f13bca767dddb4d1a2d79a684f4ec5";
+    private final String API_KEY = "YOUR_WEATHER_API";
 
     public WeatherResponse getWeatherData(WeatherRequest request) throws JSONException {
         String city = request.getCity();
